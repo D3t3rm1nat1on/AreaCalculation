@@ -1,0 +1,10 @@
+C:\Users\Usver\RiderProjects\AreaCalculation\AreaCalculation.UnitTests\bin\Debug\AreaCalculation.UnitTests.dll
+C:\Users\Usver\RiderProjects\AreaCalculation\AreaCalculation.UnitTests\bin\Debug\AreaCalculation.UnitTests.pdb
+C:\Users\Usver\RiderProjects\AreaCalculation\AreaCalculation.UnitTests\bin\Debug\AreaCalculation.dll
+C:\Users\Usver\RiderProjects\AreaCalculation\AreaCalculation.UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\Usver\RiderProjects\AreaCalculation\AreaCalculation.UnitTests\bin\Debug\AreaCalculation.pdb
+C:\Users\Usver\RiderProjects\AreaCalculation\AreaCalculation.UnitTests\bin\Debug\nunit.framework.xml
+C:\Users\Usver\RiderProjects\AreaCalculation\AreaCalculation.UnitTests\obj\Debug\AreaCalculation.UnitTests.csprojAssemblyReference.cache
+C:\Users\Usver\RiderProjects\AreaCalculation\AreaCalculation.UnitTests\obj\Debug\AreaCalculation.UnitTests.csproj.CopyComplete
+C:\Users\Usver\RiderProjects\AreaCalculation\AreaCalculation.UnitTests\obj\Debug\AreaCalculation.UnitTests.dll
+C:\Users\Usver\RiderProjects\AreaCalculation\AreaCalculation.UnitTests\obj\Debug\AreaCalculation.UnitTests.pdb

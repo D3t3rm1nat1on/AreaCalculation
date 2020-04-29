@@ -1,0 +1,5 @@
+C:\Users\Usver\RiderProjects\AreaCalculation\AreaCalculation\bin\Debug\AreaCalculation.dll
+C:\Users\Usver\RiderProjects\AreaCalculation\AreaCalculation\bin\Debug\AreaCalculation.pdb
+C:\Users\Usver\RiderProjects\AreaCalculation\AreaCalculation\obj\Debug\AreaCalculation.csprojAssemblyReference.cache
+C:\Users\Usver\RiderProjects\AreaCalculation\AreaCalculation\obj\Debug\AreaCalculation.dll
+C:\Users\Usver\RiderProjects\AreaCalculation\AreaCalculation\obj\Debug\AreaCalculation.pdb
